@@ -1,0 +1,4129 @@
+[
+    {
+        "barcodes": [
+            "8888470010208"
+        ],
+        "brand": {
+            "clientId": "MEIJI",
+            "description": null,
+            "id": 5083,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Meiji",
+            "productsCount": 288,
+            "slug": "meiji",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "10238055",
+        "createdAt": "2019-04-27T04:57:50+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 198281,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10238055_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10238055_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 198281
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Thailand",
+            "Dietary Attributes": [
+                "Halal"
+            ],
+            "DisplayUnit": "2L",
+            "Key Information": "• Made from 100% fresh milk<br>• Pasteurised and homogenised<br>• Contains all the natural goodness of fresh cow’s milk with a superior taste<br>• Rich in protein, calcium and vitamin B2<br>• Family’s choice",
+            "LinkPoint Eligible": true,
+            "SAP SubClass": 210450102,
+            "Storage Information": "To keep milk freshest, refrigerated at 4°C or less",
+            "Supplier Name": "CHIA TAI CONSUMER PRODUCTS PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "2LT",
+            "Weight": "2 gm"
+        },
+        "name": "Meiji Fresh Milk - Regular",
+        "offers": [
+            {
+                "description": "Buy 1 Meiji Fresh Milk - Regular @ $0.55 Off",
+                "id": 266277,
+                "imageUrl": "",
+                "metaData": {
+                    "promotionNumber": "2101821",
+                    "sapReference": "ZSP"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": 5.8,
+                "rule": {
+                    "buy": {
+                        "198281": {
+                            "q": 1
+                        }
+                    },
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.55
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616686382",
+            "description": null,
+            "id": 2714,
+            "image": null,
+            "languages": "",
+            "name": "Best Sellers",
+            "parentCategory": null,
+            "productsCount": 30,
+            "slug": "best-sellers",
+            "status": "HIDDEN"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            1803,
+            2742
+        ],
+        "slug": "meiji-fresh-milk-2lt-10238055",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0.55",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "6.35",
+                "status": "ENABLED",
+                "stock": 441,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            18,
+            429,
+            630
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888470020207"
+        ],
+        "brand": {
+            "clientId": "MEIJI",
+            "description": null,
+            "id": 5083,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Meiji",
+            "productsCount": 288,
+            "slug": "meiji",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "10549750",
+        "createdAt": "2019-04-27T04:57:50+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 198282,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10549750_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10549750_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 198282
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Thailand",
+            "Dietary Attributes": [
+                "Halal",
+                "Healthier Choice"
+            ],
+            "DisplayUnit": "2L",
+            "Key Information": "• 64% lower in saturated fat as compared to Meiji full cream milk<br>• Pasteurised and homogenised",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table  border='1'><tr><th>Attributes</th><th>Per Serving (200ml)</th></tr><tr><td>Energy</td><td>103kcal</td></tr><tr><td>Protein</td><td>6.4g</td></tr><tr><td>Total Fat</td><td>2.4g</td></tr><tr><td>Saturated Fat</td><td>1.8g</td></tr><tr><td>Trans Fat</td><td>0g</td></tr><tr><td>Cholesterol</td><td>9mg</td></tr><tr><td>Carbohydrate</td><td>14g</td></tr><tr><td>Sugars</td><td>14g</td></tr><tr><td>Dietary Fibre</td><td>0g</td></tr><tr><td>Sodium</td><td>67mg</td></tr><tr><td>Calcium</td><td>302mg</td></tr></table>",
+            "SAP SubClass": 210450103,
+            "Storage Information": "To keep milk up to the freshest, refrigerated at 4°C or less",
+            "Supplier Name": "CHIA TAI CONSUMER PRODUCTS PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "2LT",
+            "Weight": "2 gm"
+        },
+        "name": "Meiji Low Fat Fresh Milk - Regular",
+        "offers": [
+            {
+                "description": "Buy 3 Free Voucher",
+                "id": 261604,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 3 HCS Products FREE Fitness First Return Voucher 1119-727066993"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "ids": [
+                            4507
+                        ],
+                        "type": "CATEGORY"
+                    },
+                    "get": {
+                        "1129580": {
+                            "q": 1
+                        }
+                    },
+                    "limit": 1,
+                    "quantity": 3,
+                    "total": {
+                        "t": "PERCENT_OFF",
+                        "v": 100
+                    }
+                },
+                "type": "BANYGYD",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-15 23:59:59"
+            },
+            {
+                "description": "Buy 1 Meiji Low Fat Fresh Milk - Regular @ $0.55 Off",
+                "id": 263395,
+                "imageUrl": "",
+                "metaData": {
+                    "promotionNumber": "2101821",
+                    "sapReference": "ZSP"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": 5.8,
+                "rule": {
+                    "buy": {
+                        "198282": {
+                            "q": 1
+                        }
+                    },
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.55
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            1562,
+            1842,
+            2742,
+            4454,
+            4507
+        ],
+        "slug": "meiji-low-fat-fresh-milk-2lt-10549750",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0.55",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "6.35",
+                "status": "ENABLED",
+                "stock": 134,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888026985004"
+        ],
+        "brand": {
+            "clientId": "MARIGOLD",
+            "description": null,
+            "id": 5181,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Marigold",
+            "productsCount": 316,
+            "slug": "marigold",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "12468436",
+        "createdAt": "2019-04-27T05:00:57+08:00",
+        "description": "<p>Direct from Australia, the land of plenty, Marigold Fresh Milk contains all the natural goodness of Australian cow&#39;s milk.</p>\n",
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 199452,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12468436_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12468436_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 199452
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "Dietary Attributes": [
+                "Halal"
+            ],
+            "DisplayUnit": "2L",
+            "Key Information": "• 100% fresh<br>• 100% Australian<br>• Free range cows<br>• Contains calcium and protein ",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (200ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>134kcal</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.2g</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>7g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>7.2g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>4.8g</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>10g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>70mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>240mg</td>\n</tr>\n</tbody>\n</table>",
+            "Preparation": "Ready to drink",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Best consumed within 3 days of opening",
+            "Supplier Name": "MALAYSIA DAIRY INDUSTRIES PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "2L",
+            "Weight": "2 gm"
+        },
+        "name": "Marigold 100% Fresh Bottle Milk",
+        "offers": [
+            {
+                "description": "Buy 1 Marigold 100% Fresh Bottle Milk @ $0.35 Off",
+                "id": 264950,
+                "imageUrl": "",
+                "metaData": {
+                    "promotionNumber": "2101821",
+                    "sapReference": "ZSP"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": 5.6000000000000005,
+                "rule": {
+                    "buy": {
+                        "199452": {
+                            "q": 1
+                        }
+                    },
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.35
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742,
+            3694,
+            4399,
+            4421,
+            4482
+        ],
+        "slug": "marigold-100-fresh-milk-2lt-12468436",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0.35",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "5.95",
+                "status": "ENABLED",
+                "stock": 288,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            17
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888026560010"
+        ],
+        "brand": {
+            "clientId": "MARIGOLD",
+            "description": null,
+            "id": 5181,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Marigold",
+            "productsCount": 316,
+            "slug": "marigold",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "131467",
+        "createdAt": "2019-04-27T05:41:36+08:00",
+        "description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Muli-Regular; font-size: 16px;\">It&#39;s the perfect balance of highs and lows.</span></p>\n",
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1114804,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/131467_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/131467_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/131467_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1114804
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "Dietary Attributes": [
+                "Healthier Choice"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Milk Solids, Fresh Milk, Milk Calcium, Permitted Stabiliser and Emulsifier, Vitamin C, Permitted Flavouring, Vitamin E, Lactase, Nicotinamide, Calcium-D-Pantothenate, Pyridoxine (Vitamin B6), Thiamine (Vitamin B1), Vitamin A, Vitamin K1, Vitamin D3",
+            "Key Information": "• High in calcium and protein<br>• Low in fat and lactose<br>• 99% fat free<br>• BonePlus formulation with vitamins K and D",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\r\n<tbody>\r\n<tr>\r\n<th>Attributes</th>\r\n<th>Per Serving (200ml)</th>\r\n</tr>\r\n<tr>\r\n<td>Energy</td>\r\n<td>100kcal</td>\r\n</tr>\r\n<tr>\r\n<td>Protein</td>\r\n<td>10g</td>\r\n</tr>\r\n<tr>\r\n<td>Total Fat</td>\r\n<td>2g</td>\r\n</tr>\r\n<tr>\r\n<td>Saturated Fat</td>\r\n<td>1.4g</td>\r\n</tr>\r\n<tr>\r\n<td>Trans Fat</td>\r\n<td>0.06g</td>\r\n</tr>\r\n<tr>\r\n<td>Cholesterol</td>\r\n<td>8mg</td>\r\n</tr>\r\n<tr>\r\n<td>Carbohydrate</td>\r\n<td>10.6g</td>\r\n</tr>\r\n<tr>\r\n<td>Lactose</td>\r\n<td>2.4g</td>\r\n</tr>\r\n<tr>\r\n<td>Dietary Fibre</td>\r\n<td>0g</td>\r\n</tr>\r\n<tr>\r\n<td>Sodium</td>\r\n<td>152mg</td>\r\n</tr>\r\n<tr>\r\n<td>Sodium</td>\r\n<td>152mg</td>\r\n</tr>\r\n<tr>\r\n<td>Calcium</td>\r\n<td>400mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin A</td>\r\n<td>375mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Thiamine (Vitamin B1)</td>\r\n<td>1mg</td>\r\n</tr>\r\n<tr>\r\n<td>Pyridoxine (Vitamin B6)</td>\r\n<td>2mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin C</td>\r\n<td>30mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin D3</td>\r\n<td>2.5mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin E</td>\r\n<td>6mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin K1</td>\r\n<td>27mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Niacin</td>\r\n<td>11mg</td>\r\n</tr>\r\n<tr>\r\n<td>Pantothenic Acid</td>\r\n<td>7mg</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "Preparation": "<u>Ways to enjoy:</u><br>• Add it into your cereals/oatmeal<br>• Drink it on its own – replace your beverages with milk<br>• Use it in baking recipes<br>• Add it into your smoothies for creamy, smoother texture and an extra boost of nutrients",
+            "SAP SubClass": 210450103,
+            "Storage Information": "• Keep refrigerated below 4°C<br>• Best consumed within 3 days after opening",
+            "Supplier Name": "MALAYSIA DAIRY INDUSTRIES PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Marigold HL Milk - Plain",
+        "offers": [
+            {
+                "description": "Buy 3 Free Voucher",
+                "id": 261604,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 3 HCS Products FREE Fitness First Return Voucher 1119-727066993"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "ids": [
+                            4507
+                        ],
+                        "type": "CATEGORY"
+                    },
+                    "get": {
+                        "1129580": {
+                            "q": 1
+                        }
+                    },
+                    "limit": 1,
+                    "quantity": 3,
+                    "total": {
+                        "t": "PERCENT_OFF",
+                        "v": 100
+                    }
+                },
+                "type": "BANYGYD",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-15 23:59:59"
+            },
+            {
+                "description": "Buy any 2 and get @ $0.65 Off",
+                "id": 275732,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.65
+                    },
+                    "variants": [
+                        1114804,
+                        1114805,
+                        1114806,
+                        1114807
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            1562,
+            1842,
+            2742,
+            3318,
+            3694,
+            4398,
+            4401,
+            4421,
+            4454,
+            4458,
+            4507,
+            8807,
+            9041
+        ],
+        "slug": "marigold-hl-milk-plain-1lt-131467",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.2",
+                "status": "ENABLED",
+                "stock": 303,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888200602857"
+        ],
+        "brand": {
+            "clientId": "FARMHOUSE",
+            "description": null,
+            "id": 6002,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Farmhouse",
+            "productsCount": 31,
+            "slug": "farmhouse",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "458564",
+        "createdAt": "2019-04-27T04:44:00+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 193151,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/458564_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/458564_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 193151
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Trans-Fat Free"
+            ],
+            "DisplayUnit": "1L",
+            "Key Information": "• Pasteurised and homogenised milk<br>• Contains calcium<br>• Source of protein<br>• Rich and creamy",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\r\n<tbody>\r\n<tr>\r\n<th>Attributes</th>\r\n<th>Per Serving (250ml)</th>\r\n</tr>\r\n<tr>\r\n<td>Energy</td>\r\n<td>163kcal</td>\r\n</tr>\r\n<tr>\r\n<td>Carbohydrate</td>\r\n<td>11g</td>\r\n</tr>\r\n<tr>\r\n<td>Protein</td>\r\n<td>8g</td>\r\n</tr>\r\n<tr>\r\n<td>Total Fat</td>\r\n<td>9.5g</td>\r\n</tr>\r\n<tr>\r\n<td>Trans Fat</td>\r\n<td>0.5g</td>\r\n</tr>\r\n<tr>\r\n<td>Sugars</td>\r\n<td>10.8g</td>\r\n</tr>\r\n<tr>\r\n<td>Calcium</td>\r\n<td>300mg</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "SAP SubClass": 210450102,
+            "Supplier Name": "F & N FOODS PTE LTD*",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1LT",
+            "Weight": "1 gm"
+        },
+        "name": "Farmhouse Milk - Fresh",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $0.75 Off",
+                "id": 275757,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.75
+                    },
+                    "variants": [
+                        193151,
+                        193156,
+                        193996
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742,
+            3695,
+            4423,
+            4635,
+            4653,
+            9037
+        ],
+        "slug": "farmhouse-fresh-milk-1lt-458564",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.3",
+                "status": "ENABLED",
+                "stock": 212,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            109,
+            630,
+            656
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888200603434"
+        ],
+        "brand": {
+            "clientId": "FARMHOUSE",
+            "description": null,
+            "id": 6002,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Farmhouse",
+            "productsCount": 31,
+            "slug": "farmhouse",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "497108",
+        "createdAt": "2019-04-27T04:44:01+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 193156,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/497108_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/497108_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 193156
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Halal"
+            ],
+            "DisplayUnit": "1L",
+            "Key Information": "• Contains calcium<br>• Source of protein<br>• All the goodness of milk that is light on the waist and great in taste",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (250ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>123kcal / 517kJ</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.3g</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>9.3g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>3.3g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>2g</td>\n</tr>\n<tr>\n<td>Cholesterol</td>\n<td>15mg</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>14.3g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>11.8g</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>320mg</td>\n</tr>\n</tbody>\n</table>",
+            "SAP SubClass": 210450103,
+            "Storage Information": "Keep refrigerated at 2°C - 4°C",
+            "Supplier Name": "F & N FOODS PTE LTD*",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Farmhouse Milk - Low Fat",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $0.75 Off",
+                "id": 275757,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.75
+                    },
+                    "variants": [
+                        193151,
+                        193156,
+                        193996
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742,
+            3695,
+            4423,
+            4635,
+            4653,
+            9037
+        ],
+        "slug": "farmhouse-high-calcium-low-fat-milk-1lt-497108",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.3",
+                "status": "ENABLED",
+                "stock": 166,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            656
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "9310036006206"
+        ],
+        "brand": {
+            "clientId": "PAUL'S",
+            "description": null,
+            "id": 6220,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Paul'S",
+            "productsCount": 48,
+            "slug": "paul's",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "13081538",
+        "createdAt": "2019-04-27T04:58:57+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 198694,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13081538_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13081538_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13081538_RXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13081538_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 198694
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Halal"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Homogenised and Pasteurised Fresh Full Cream Milk",
+            "Key Information": "Made from 100% Australian milk and it delivers on the promise of creaminess and goodness you can really taste!",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (100ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>290kJ</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>3.4g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>3.5g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>2.6g</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>13g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>11.5g</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>275mg</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>100mg</td>\n</tr>\n</tbody>\n</table>\n ",
+            "Preparation": "Consume as is it, or with other foods",
+            "SAP SubClass": 210450102,
+            "Storage Information": "• Keep refrigerated below 4°C<br>• Use within 5 days after opening",
+            "Supplier Name": "KAISER FOODS (SINGAPORE) PTE L",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Paul's Fresh Milk - Full Cream",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $1.35 Off",
+                "id": 275971,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 1.35
+                    },
+                    "variants": [
+                        198694,
+                        198695,
+                        198698
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "pauls-fresh-milk-1lt-13081538",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.45",
+                "status": "ENABLED",
+                "stock": 198,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "9310078024503"
+        ],
+        "brand": {
+            "clientId": "PURA",
+            "description": null,
+            "id": 7021,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Pura",
+            "productsCount": 7,
+            "slug": "pura",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "100016",
+        "createdAt": "2019-04-27T04:43:57+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 193133,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/100016_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/100016_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 193133
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "DisplayUnit": "1L",
+            "Ingredients": "• <u>Allergen advice: contains wheat and soya</u><br>• <u>Manufactured on equipment that also processes biscuits that contain peanut</u>",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\r\n<tbody>\r\n<tr>\r\n<th>Attributes</th>\r\n<th>Per Serving (250ml)</th>\r\n</tr>\r\n<tr>\r\n<td>Energy</td>\r\n<td>156kcal / 662kJ</td>\r\n</tr>\r\n<tr>\r\n<td>Trans Fat</td>\r\n<td>0.5g</td>\r\n</tr>\r\n<tr>\r\n<td>Protein</td><td>8g</td></tr>\r\n<tr>\r\n<td>Total Fat</td>\r\n<td>8.5g</td>\r\n</tr>\r\n<tr>\r\n<td>Saturated Fat</td>\r\n<td>5.5g</td>\r\n</tr>\r\n<tr>\r\n<td>Carbohydrate</td>\r\n<td>12.2g</td>\r\n</tr>\r\n<tr>\r\n<td>Sugars</td>\r\n<td>12.2g</td>\r\n</tr>\r\n<tr>\r\n<td>Sodium</td>\r\n<td>110mg</td>\r\n</tr>\r\n<tr>\r\n<td>Calcium</td>\r\n<td>295mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin B2</td>\r\n<td>500µg</td>\r\n</tr>\r\n<tr>\r\n<td>Phosphorus</td>\r\n<td>232mg</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "SAP SubClass": 210450102,
+            "Supplier Name": "F & N FOODS PTE LTD*",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1LT",
+            "Weight": "1 gm"
+        },
+        "name": "Pura Australian Milk - Fresh",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $0.95 Off",
+                "id": 275745,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.95
+                    },
+                    "variants": [
+                        193133,
+                        193148
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "pura-australian-milk-fresh-1lt-100016",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.6",
+                "status": "ENABLED",
+                "stock": 39,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            109,
+            630
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8993351129105"
+        ],
+        "brand": {
+            "clientId": "GREENFIELDS",
+            "description": null,
+            "id": 10747,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Greenfields",
+            "productsCount": 24,
+            "slug": "greenfields",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "10591078",
+        "createdAt": "2019-04-27T04:44:02+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 193166,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10591078_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10591078_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 193166
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Indonesia",
+            "Dietary Attributes": [
+                "Gluten-Free",
+                "Halal",
+                "Trans-Fat Free"
+            ],
+            "DisplayUnit": "1L",
+            "Key Information": "• The highest quality raw milk<br>• Pasteurised and homogenised<br>• Guaranteed no added additives, hormones nor antibiotics",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border='1'><tbody><tr><th>Attributes</th><th>Per Serving (200ml)</th></tr><tr><td>Energy</td><td>126kcal\r</td></tr><tr><td>Total Fat</td><td>7.1g\r</td></tr><tr><td>Protein</td><td>6.1g\r</td></tr><tr><td>Sugars</td><td>9.4g\r</td></tr><tr><td>Sodium</td><td>67.9mg\r</td></tr><tr><td>Potassium</td><td>240.4mg\r</td></tr><tr><td>Vitamin B2</td><td>0.4mg\r</td></tr><tr><td>Calcium</td><td>236.3mg\r</td></tr><tr><td>Phosphorus</td><td>167.9mg\r</td></tr><tr><td>Magnesium</td><td>21mg\r</td></tr><tr><td>Zinc</td><td>0.8mg\r</td></tr></tbody></table>",
+            "Preparation": "Shake before opening",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Keep refrigerated at 0°C - 4°C",
+            "Supplier Name": "AUSTASIA FOOD PTE LTD",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Greenfields Fresh Milk - Regular",
+        "offers": [
+            {
+                "description": "Buy 1 Greenfields Fresh Milk - Regular @ $0.30 Off",
+                "id": 264456,
+                "imageUrl": "",
+                "metaData": {
+                    "promotionNumber": "2102367",
+                    "sapReference": "ZSP"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": 2.95,
+                "rule": {
+                    "buy": {
+                        "193166": {
+                            "q": 1
+                        }
+                    },
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.3
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742
+        ],
+        "slug": "10591078",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0.30",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.25",
+                "status": "ENABLED",
+                "stock": 177,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888440010078"
+        ],
+        "brand": {
+            "clientId": "COWHEAD",
+            "description": null,
+            "id": 5244,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Cowhead",
+            "productsCount": 76,
+            "slug": "cowhead",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "13083479",
+        "createdAt": "2019-04-27T05:09:55+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1102807,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083479_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083479_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083479_RXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1102807
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Gluten-Free",
+                "Halal"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Homogenised and Pasteurised Full Cream Milk",
+            "Key Information": "• 100% pure fresh milk from Australia<br>• Comes from cows that are 100% antibiotic free, hormone free, non-GMO",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border='1'><tr><th>Attributes</th><th>Per Serving (250ml)</th></tr><tr><td>Energy</td><td>725kJ</td></tr><tr><td>Protein</td><td>8.5g</td></tr><tr><td>Total Fat</td><td>8.8g</td></tr><tr><td>Saturated Fat</td><td>6.5g</td></tr><tr><td>Trans Fat</td><td>0.3g</td></tr><tr><td>Cholesterol</td><td>40mg</td></tr><tr><td>Carbohydrate</td><td>13g</td></tr><tr><td>Sugars</td><td>11.5g</td></tr><tr><td>Sodium</td><td>100mg</td></tr><tr><td>Calcium</td><td>275mg</td></tr></table>",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Keep refrigerated",
+            "Supplier Name": "FRESH N NATURAL FOODS PTE LTD",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Cowhead 100% Fresh Milk",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $1.85 Off",
+                "id": 275964,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 1.85
+                    },
+                    "variants": [
+                        1102807,
+                        1102808
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "13083479",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.5",
+                "status": "ENABLED",
+                "stock": 165,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888026981006"
+        ],
+        "brand": {
+            "clientId": "MARIGOLD",
+            "description": null,
+            "id": 5181,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Marigold",
+            "productsCount": 316,
+            "slug": "marigold",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "11128982",
+        "createdAt": "2019-04-27T04:44:05+08:00",
+        "description": "<p>Direct from Australia, the land of plenty, Marigold Fresh Milk contains all the natural goodness of Australian cow&#39;s milk.</p>\n",
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 193183,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/11128982_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/11128982_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 193183
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "DisplayUnit": "1L",
+            "Key Information": "• 100% fresh<br>• 100% Australian<br>• Free range cows<br>• Contains calcium and protein",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (200ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>134kcal</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.2g</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>7g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>7.2g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>4.8g</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>10g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>70mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>240mg</td>\n</tr>\n</tbody>\n</table>",
+            "Preparation": "Ready to drink",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Best consumed within 3 days of opening",
+            "Supplier Name": "MALAYSIA DAIRY INDUSTRIES PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Marigold 100% Fresh Milk",
+        "offers": [
+            {
+                "description": "Buy 2 Marigold 100% Fresh Milk @ $0.55 Off",
+                "id": 275727,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "buy": {
+                        "193183": {
+                            "q": 2
+                        }
+                    },
+                    "limit": null,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.55
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "marigold-100-fresh-milk-1lt-11128982",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.1",
+                "status": "ENABLED",
+                "stock": 86,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1,
+            109
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888026561017"
+        ],
+        "brand": {
+            "clientId": "MARIGOLD",
+            "description": null,
+            "id": 5181,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Marigold",
+            "productsCount": 316,
+            "slug": "marigold",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "12561219",
+        "createdAt": "2019-04-27T05:13:48+08:00",
+        "description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Muli-Regular; font-size: 16px;\">It&#39;s the perfect balance of highs and lows.</span></p>\n",
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1104241,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12561219_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12561219_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1104241
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "Dietary Attributes": [
+                "Halal",
+                "Healthier Choice"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Milk Solids, Fresh Milk, Plant Sterol Esters, Milk Calcium, Permitted Stabiliser and emulsifier, vitamin C, Permitted Flavouring, Vitamin E, Lactase, Nicotinamide, Calcium-D-Pantothenate, Pyridoxine (Vitamin B6), Vitamin B1 (Thiamine Hydrochloride), Vitamin A Palmitate, Vitamin K1, Vitamin D3<br>•<u> This product contains milk and is produced in a factory where soy and fish products are also handled</u>",
+            "Key Information": "• High in calcium and protein<br>• Low in fat and lactose<br>• Shown to lower blood cholesterol",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>102kcal</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.04g</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>10g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>2g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>1g</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>11g</td>\n</tr>\n<tr>\n<td>Lactose</td>\n<td>2.4g</td>\n</tr>\n<tr>\n<td>Dietary Fibre</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>164mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>400mg</td>\n</tr>\n<tr>\n<td>Vitamin A</td>\n<td>375mcg</td>\n</tr>\n<tr>\n<td>Thiamine (Vitamin B1)</td>\n<td>1mg</td>\n</tr>\n<tr>\n<td>Pryidoxine (Vitamin B6)</td>\n<td>2mg</td>\n</tr>\n<tr>\n<td>Vitamin C</td>\n<td>30mg</td>\n</tr>\n<tr>\n<td>Vitamin D3</td>\n<td>2.5mcg</td>\n</tr>\n<tr>\n<td>Vitamin E</td>\n<td>6mg</td>\n</tr>\n<tr>\n<td>Vitamin K1</td>\n<td>27mcg</td>\n</tr>\n<tr>\n<td>Niacin (Vitamin B3)</td>\n<td>11mg</td>\n</tr>\n<tr>\n<td>Pantothenic Acid (Vitamin B5)</td>\n<td>7mg</td>\n</tr>\n<tr>\n<td>Plant Sterol Esters</td>\n<td>0.65g</td>\n</tr>\n</tbody>\n</table>",
+            "SAP SubClass": 210450103,
+            "Storage Information": "• Keep refrigerated below 4 °C<br>• Best consumed within 3 days after opening",
+            "Supplier Name": "MALAYSIA DAIRY INDUSTRIES PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1LT",
+            "Weight": "1 gm"
+        },
+        "name": "Marigold HL Milk - Plant Sterols",
+        "offers": [
+            {
+                "description": "Buy 3 Free Voucher",
+                "id": 261604,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 3 HCS Products FREE Fitness First Return Voucher 1119-727066993"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "ids": [
+                            4507
+                        ],
+                        "type": "CATEGORY"
+                    },
+                    "get": {
+                        "1129580": {
+                            "q": 1
+                        }
+                    },
+                    "limit": 1,
+                    "quantity": 3,
+                    "total": {
+                        "t": "PERCENT_OFF",
+                        "v": 100
+                    }
+                },
+                "type": "BANYGYD",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-15 23:59:59"
+            },
+            {
+                "description": "Buy 2 Marigold HL Milk - Plant Sterols @ $0.75 Off",
+                "id": 275729,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "buy": {
+                        "1104241": {
+                            "q": 2
+                        }
+                    },
+                    "limit": null,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.75
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            1562,
+            1842,
+            2742,
+            3318,
+            3694,
+            4398,
+            4401,
+            4421,
+            4454,
+            4507,
+            8807,
+            9041
+        ],
+        "slug": "marigold-hl-milk-plus-plant-sterol-1lt-12561219",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.5",
+                "status": "ENABLED",
+                "stock": 46,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888200606428"
+        ],
+        "brand": {
+            "clientId": "MAGNOLIA",
+            "description": null,
+            "id": 7001,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Magnolia",
+            "productsCount": 143,
+            "slug": "magnolia",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "13027683",
+        "createdAt": "2019-04-27T05:41:45+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1114860,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13027683_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13027683_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1114860
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "Dietary Attributes": [
+                "Halal",
+                "Healthier Choice",
+                "Trans-Fat Free"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Low Fat Milk, Milk Solids, Milk Calcium, Stabilisers, Omega-3 Fatty Acids containing Docosahexaenoic Acid (DHA), Vitamin D3",
+            "Key Information": "The smart choice to stock up on this essential fatty acid that can only be obtained from food.",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (250ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>133kcal</td>\n</tr>\n<tr>\n<td>Omega-3 Fatty Acids</td>\n<td>30mg</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>9.5g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>3.8g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>2.3g</td>\n</tr>\n<tr>\n<td>DHA</td>\n<td>1mg</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.1g</td>\n</tr>\n<tr>\n<td>Cholesterol</td>\n<td>13mg</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>15g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>14.3g</td>\n</tr>\n<tr>\n<td>Dietary Fibre</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>125mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>500mg</td>\n</tr>\n<tr>\n<td>Vitamin D3</td>\n<td>1.8µg</td>\n</tr>\n</tbody>\n</table>",
+            "SAP SubClass": 210450103,
+            "Storage Information": "Keep refrigerated at 2 - 4°C",
+            "Supplier Name": "F & N FOODS PTE LTD*",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "F&N Magnolia Plus Lo-Fat Hi-Cal Milk - Omega",
+        "offers": [
+            {
+                "description": "Buy 2 Milk or Yoghurt Free Bag",
+                "id": 248839,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 2x1L Magnolia Milk or 2x800ml Yoghurt FREE Bag 1119-727054511"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "elementGroups": [
+                        {
+                            "get": {
+                                "1129946": {
+                                    "q": 1
+                                }
+                            },
+                            "minAmount": 5,
+                            "total": {
+                                "t": "PERCENT_OFF",
+                                "v": 100
+                            }
+                        }
+                    ],
+                    "entity": {
+                        "type": "CATEGORY"
+                    },
+                    "entityIds": [
+                        8955
+                    ]
+                },
+                "type": "BMINXGFG",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-30 23:59:59"
+            },
+            {
+                "description": "Buy 3 Free Voucher",
+                "id": 261604,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 3 HCS Products FREE Fitness First Return Voucher 1119-727066993"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "ids": [
+                            4507
+                        ],
+                        "type": "CATEGORY"
+                    },
+                    "get": {
+                        "1129580": {
+                            "q": 1
+                        }
+                    },
+                    "limit": 1,
+                    "quantity": 3,
+                    "total": {
+                        "t": "PERCENT_OFF",
+                        "v": 100
+                    }
+                },
+                "type": "BANYGYD",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-15 23:59:59"
+            },
+            {
+                "description": "Buy any 2 and get @ $1.05 Off",
+                "id": 275761,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 1.05
+                    },
+                    "variants": [
+                        1114836,
+                        1114842,
+                        1114847,
+                        1114858,
+                        1114860,
+                        1114387,
+                        1114902
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1562,
+            1842,
+            3695,
+            4423,
+            4454,
+            4507,
+            4635,
+            8955
+        ],
+        "slug": "magnolia-l-fat-h-cal-fresh-milk-with-omega-3-dha-1lt-13027683",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.5",
+                "status": "ENABLED",
+                "stock": 13,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888026568368"
+        ],
+        "brand": {
+            "clientId": "MARIGOLD",
+            "description": null,
+            "id": 5181,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Marigold",
+            "productsCount": 316,
+            "slug": "marigold",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "12691777",
+        "createdAt": "2019-04-27T05:14:00+08:00",
+        "description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Muli-Regular; font-size: 16px;\">It&#39;s the perfect balance of highs and lows.</span></p>\n",
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1104314,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12691777_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/12691777_LXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1104314
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Singapore",
+            "Dietary Attributes": [
+                "Halal",
+                "Healthier Choice"
+            ],
+            "DisplayUnit": "2L",
+            "Ingredients": "Milk Solids, Fresh Milk, Milk Calcium, Permitted Stabiliser and Emulsifier, Vitamin C, Permitted Flavouring, Vitamin E, Lactase, Nicotinamide, Calcium-D-Pantothenate, Pyridoxine (Vitamin B6), Thiamine (Vitamin B1), Vitamin A, Vitamin K1, Vitamin D3",
+            "Key Information": "• High in calcium and protein<br>• Low in fat and lactose<br>• 99% fat free<br>• BonePlus formulation with vitamins K and D",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\r\n<tbody>\r\n<tr>\r\n<th>Attributes</th>\r\n<th>Per Serving (200ml)</th>\r\n</tr>\r\n<tr>\r\n<td>Energy</td>\r\n<td>100kcal</td>\r\n</tr>\r\n<tr>\r\n<td>Protein</td>\r\n<td>10g</td>\r\n</tr>\r\n<tr>\r\n<td>Total Fat</td>\r\n<td>2g</td>\r\n</tr>\r\n<tr>\r\n<td>Saturated Fat</td>\r\n<td>1.4g</td>\r\n</tr>\r\n<tr>\r\n<td>Trans Fat</td>\r\n<td>0.06g</td>\r\n</tr>\r\n<tr>\r\n<td>Cholesterol</td>\r\n<td>8mg</td>\r\n</tr>\r\n<tr>\r\n<td>Carbohydrate</td>\r\n<td>10.6g</td>\r\n</tr>\r\n<tr>\r\n<td>Lactose</td>\r\n<td>2.4g</td>\r\n</tr>\r\n<tr>\r\n<td>Dietary Fibre</td>\r\n<td>0g</td>\r\n</tr>\r\n<tr>\r\n<td>Sodium</td>\r\n<td>152mg</td>\r\n</tr>\r\n<tr>\r\n<td>Sodium</td>\r\n<td>152mg</td>\r\n</tr>\r\n<tr>\r\n<td>Calcium</td>\r\n<td>400mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin A</td>\r\n<td>375mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Thiamine (Vitamin B1)</td>\r\n<td>1mg</td>\r\n</tr>\r\n<tr>\r\n<td>Pyridoxine (Vitamin B6)</td>\r\n<td>2mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin C</td>\r\n<td>30mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin D3</td>\r\n<td>2.5mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin E</td>\r\n<td>6mg</td>\r\n</tr>\r\n<tr>\r\n<td>Vitamin K1</td>\r\n<td>27mcg</td>\r\n</tr>\r\n<tr>\r\n<td>Niacin</td>\r\n<td>11mg</td>\r\n</tr>\r\n<tr>\r\n<td>Pantothenic Acid</td>\r\n<td>7mg</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+            "Preparation": "Ready to drink",
+            "SAP SubClass": 210450103,
+            "Storage Information": "• Keep refrigerated below 4°C<br>• Best consumed within 3 days after opening",
+            "Supplier Name": "MALAYSIA DAIRY INDUSTRIES PTE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "2LT",
+            "Weight": "2 gm"
+        },
+        "name": "Marigold HL Bottle Milk - Plain",
+        "offers": [
+            {
+                "description": "Buy 3 Free Voucher",
+                "id": 261604,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "FREEGIFT Buy 3 HCS Products FREE Fitness First Return Voucher 1119-727066993"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "ids": [
+                            4507
+                        ],
+                        "type": "CATEGORY"
+                    },
+                    "get": {
+                        "1129580": {
+                            "q": 1
+                        }
+                    },
+                    "limit": 1,
+                    "quantity": 3,
+                    "total": {
+                        "t": "PERCENT_OFF",
+                        "v": 100
+                    }
+                },
+                "type": "BANYGYD",
+                "validFrom": "2019-11-01 00:00:00",
+                "validTill": "2019-11-15 23:59:59"
+            },
+            {
+                "description": "Buy 1 Marigold HL Bottle Milk - Plain @ $0.40 Off",
+                "id": 267003,
+                "imageUrl": "",
+                "metaData": {
+                    "promotionNumber": "2101821",
+                    "sapReference": "ZSP"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": 5.75,
+                "rule": {
+                    "buy": {
+                        "1104314": {
+                            "q": 1
+                        }
+                    },
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 0.4
+                    }
+                },
+                "type": "BXATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1562,
+            1842,
+            3382,
+            3564,
+            3694,
+            4399,
+            4401,
+            4421,
+            4454,
+            4507,
+            8808,
+            9041
+        ],
+        "slug": "marigold-hl-h-cal-protein-low-fat-fresh-milk-2lt-12691777",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0.40",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "6.15",
+                "status": "ENABLED",
+                "stock": 15,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888440010238"
+        ],
+        "brand": {
+            "clientId": "COWHEAD",
+            "description": null,
+            "id": 5244,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Cowhead",
+            "productsCount": 76,
+            "slug": "cowhead",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "13083480",
+        "createdAt": "2019-04-27T05:09:55+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1102808,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083480_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083480_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13083480_RXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1102808
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Gluten-Free",
+                "Halal"
+            ],
+            "DisplayUnit": "1L",
+            "Ingredients": "Homogenised and Pasteurised Low Fat Milk",
+            "Key Information": "Cowhead milk is made from 100% pure fresh milk from Australia. Our milk comes from cows that are 100% antibiotic free, hormone free, non-GMO.",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border='1'><tr><th>Attributes</th><th>Per Serving (250ml)</th></tr><tr><td>Energy</td><td>500kJ</td></tr><tr><td>Protein</td><td>8.3g</td></tr><tr><td>Total Fat</td><td>3.5g</td></tr><tr><td>Saturated Fat</td><td>2.3g</td></tr><tr><td>Trans Fat</td><td>0.3g</td></tr><tr><td>Cholesterol</td><td>12.8mg</td></tr><tr><td>Carbohydrate</td><td>13.3g</td></tr><tr><td>Sugars</td><td>12g</td></tr><tr><td>Dietary Fibre</td><td>1g</td></tr><tr><td>Sodium</td><td>100mg</td></tr><tr><td>Calcium</td><td>300mg</td></tr></table>",
+            "SAP SubClass": 210450103,
+            "Storage Information": "Keep refrigerated",
+            "Supplier Name": "FRESH N NATURAL FOODS PTE LTD",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Cowhead 100% Fresh Milk - Low Fat",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $1.85 Off",
+                "id": 275964,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 1.85
+                    },
+                    "variants": [
+                        1102807,
+                        1102808
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-11-01 04:01:00",
+                "validTill": "2019-12-01 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "13083480",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "3.5",
+                "status": "ENABLED",
+                "stock": 49,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "9311697101583"
+        ],
+        "brand": {
+            "clientId": "HARVEY FRESH",
+            "description": null,
+            "id": 9684,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Harvey Fresh",
+            "productsCount": 20,
+            "slug": "harvey-fresh",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 51,
+        "categoryDataMapping": [
+            null
+        ],
+        "clientItemId": "10905401",
+        "createdAt": "2019-04-27T04:47:22+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 194395,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10905401_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10905401_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10905401_RXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/10905401_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 194395
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "DisplayUnit": "1L",
+            "Key Information": "An ultra heat treated milk. Because of ultra heat treatment and a hermetically sealed pack, UHT Milk can be kept unopened for months without refrigeration.",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (250ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>375kJ</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>7.8g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>< 0.5g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>< 0.3g</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>< 0.3g</td>\n</tr>\n<tr>\n<td>Cholesterol</td>\n<td>10mg</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>15g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>11.8g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>90mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>275mg</td>\n</tr>\n</tbody>\n</table>",
+            "SAP SubClass": 110100103,
+            "Storage Information": "• Store in a cool, dry place<br>• After opening, keep refrigerated at or below 4°C and finish the product within seven days<br>• Not suitable as a complete milk food for children under the age of two years",
+            "Supplier Name": "PARMALAT AUSTRALIA PTY LTD",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1LT",
+            "Weight": "1 gm"
+        },
+        "name": "Harvey Fresh UHT Milk - Skim",
+        "offers": [
+            {
+                "description": "Buy any 2 and get @ $1.25 Off",
+                "id": 259562,
+                "imageUrl": "",
+                "metaData": {
+                    "sapReference": "ZMNM"
+                },
+                "onPack": false,
+                "orderType": [
+                    "DELIVERY"
+                ],
+                "price": null,
+                "rule": {
+                    "entity": {
+                        "type": "VARIANT"
+                    },
+                    "limit": null,
+                    "quantity": 2,
+                    "total": {
+                        "t": "ABSOLUTE_OFF",
+                        "v": 1.25
+                    },
+                    "variants": [
+                        194393,
+                        194395,
+                        1147983
+                    ]
+                },
+                "type": "BANYATP",
+                "validFrom": "2019-10-31 04:01:00",
+                "validTill": "2019-11-14 04:00:00"
+            }
+        ],
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "slug": "harvey-fresh-uht-milk-skim-1lt-10905401",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "2.1",
+                "status": "ENABLED",
+                "stock": 31,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8888200628055"
+        ],
+        "brand": {
+            "clientId": "FARMHOUSE",
+            "description": null,
+            "id": 6002,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Farmhouse",
+            "productsCount": 31,
+            "slug": "farmhouse",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 0,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "13009812",
+        "createdAt": "2019-04-27T04:48:57+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 194973,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13009812_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13009812_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13009812_RXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13009812_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 194973
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Australia",
+            "Dietary Attributes": [
+                "Hypoallergenic"
+            ],
+            "DisplayUnit": "3 x 1L",
+            "Key Information": "• Pasteurised and homogenized milk<br>• Contains calcium<br>• Source of protein",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border='1'><tbody><tr><th>Attributes</th><th>Per Serving (100g)</th></tr><tr><td>Energy</td><td>64kcal\r</td></tr><tr><td>Protein</td><td>3.3g\r</td></tr><tr><td>Total Fat</td><td>3.6g\r</td></tr><tr><td>Saturated Fat</td><td>0g\r</td></tr><tr><td>Carbohydrate</td><td>4.7g\r</td></tr><tr><td>Sugars</td><td>4.7g\r</td></tr><tr><td>Dietary Fibre</td><td>0g\r</td></tr><tr><td>Sodium</td><td>0mg\r</td></tr><tr><td>Cholesterol</td><td>0mg\r</td></tr></tbody></table>",
+            "Preparation": "Shake well before serving",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Keep refrigerated at 2°C - 4°C",
+            "Supplier Name": "F & N FOODS PTE LTD*",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Farmhouse Milk - Fresh",
+        "offers": null,
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742,
+            3695,
+            4423,
+            4635
+        ],
+        "slug": "13009812",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": 30,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "8.15",
+                "status": "ENABLED",
+                "stock": 30,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "8993351129907"
+        ],
+        "brand": {
+            "clientId": "GREENFIELDS",
+            "description": null,
+            "id": 10747,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Greenfields",
+            "productsCount": 24,
+            "slug": "greenfields",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "13062327",
+        "createdAt": "2019-04-27T04:50:19+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 195479,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13062327_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13062327_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13062327_RXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 195479
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Indonesia",
+            "Dietary Attributes": [
+                "Gluten-Free",
+                "Halal",
+                "Trans-Fat Free"
+            ],
+            "DisplayUnit": "1.89L",
+            "Key Information": "Enriched with all essential nutrients and goodness like calcium and vitamins. Free of additives, preservatives, milk solids and permeates.",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border='1'><tbody><tr><th>Attributes</th><th>Per Serving (236ml)</th></tr>\n<tr>\n<td>Energy</td>\n<td>448kJ</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>9g</td>\n</tr>\n<tr>\n<td>Polyunsaturated Fat</td>\n<td>0.24g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>2.5g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>1.75g</td>\n</tr>\n<tr>\n<td>Trans Fat</td>\n<td>0.08g</td>\n</tr>\n<tr>\n<td>Monounsaturated Fat</td>\n<td>0.5g</td>\n</tr>\n<tr>\n<td>Cholesterol</td>\n<td>11.6mg</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>11.9g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>11.4g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>98mg</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>300mg</td>\n</tr>\n</tbody>\n</table>",
+            "Preparation": "Shake before opening",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Keep refrigerated at 0°C - 4°C",
+            "Supplier Name": "FRESH N NATURAL FOODS PTE LTD",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1.89L",
+            "Weight": "1 gm"
+        },
+        "name": "Greenfields Fresh Milk - Regular",
+        "offers": null,
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            2742,
+            5612
+        ],
+        "slug": "greenfield-fresh-milk---regular-13062327",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "5.25",
+                "status": "ENABLED",
+                "stock": 188,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    },
+    {
+        "barcodes": [
+            "703510633699"
+        ],
+        "brand": {
+            "clientId": "HOKKAIDO",
+            "description": null,
+            "id": 6977,
+            "image": null,
+            "languages": "",
+            "logo": null,
+            "name": "Hokkaido",
+            "productsCount": 7,
+            "slug": "hokkaido",
+            "status": "ENABLED"
+        },
+        "bulkOrderThreshold": 30,
+        "categoryDataMapping": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "clientItemId": "13075019",
+        "createdAt": "2019-04-27T05:09:20+08:00",
+        "description": null,
+        "handlingDays": 0,
+        "hasVariants": 0,
+        "id": 1102587,
+        "images": [
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13075019_XL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13075019_LXL1.jpg",
+            "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/fpol/media/images/product/XL/13075019_BXL1.jpg"
+        ],
+        "imagesExtra": null,
+        "item": {
+            "id": 1102587
+        },
+        "languages": "",
+        "metaData": {
+            "Country of Origin": "Japan",
+            "DisplayUnit": "1L",
+            "LinkPoint Eligible": true,
+            "Nutritional Data": "<table border=\"1\">\n<tbody>\n<tr>\n<th>Attributes</th>\n<th>Per Serving (200ml)</th>\n</tr>\n<tr>\n<td>Energy</td>\n<td>142kJ</td>\n</tr>\n<tr>\n<td>Carbohydrate</td>\n<td>9.8g</td>\n</tr>\n<tr>\n<td>Protein</td>\n<td>7g</td>\n</tr>\n<tr>\n<td>Total Fat</td>\n<td>8.2g</td>\n</tr>\n<tr>\n<td>Saturated Fat</td>\n<td>5.2g</td>\n</tr>\n<tr>\n<td>Dietary Fibre</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Sodium</td>\n<td>82mg</td>\n</tr>\n<tr>\n<td>Salt</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Sugars</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Calcium</td>\n<td>228mg</td>\n</tr>\n<tr>\n<td>Potassium</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Magnesium</td>\n<td>0g</td>\n</tr>\n<tr>\n<td>Phosphorus</td>\n<td>0g</td>\n</tr>\n</tbody>\n</table>",
+            "SAP SubClass": 210450102,
+            "Storage Information": "Keep below 4 °C",
+            "Supplier Name": "CHILLED WAREHOUSE",
+            "Unit Of Measurement": "EA ",
+            "Unit Of Weight": "1L",
+            "Weight": "1 gm"
+        },
+        "name": "Hokkaido Fresh Milk - Rich & Creamy",
+        "offers": null,
+        "organizationId": "2",
+        "primaryCategory": {
+            "clientId": "3074457345616687369",
+            "description": null,
+            "id": 1803,
+            "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Milk_L2.jpg",
+            "languages": "",
+            "name": "Fresh Milk",
+            "parentCategory": {
+                "clientId": "3074457345616833886",
+                "description": null,
+                "id": 4300,
+                "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/FreshMilk_L2.jpg",
+                "languages": "",
+                "name": "Fresh Milk",
+                "parentCategory": {
+                    "clientId": "3074457345616774868",
+                    "description": null,
+                    "id": 1801,
+                    "image": "https://s3-ap-southeast-1.amazonaws.com/www8.fairprice.com.sg/uat8/media/images/banners/web/category/Dairy-Chilled-Eggs-Zop_L1.png",
+                    "languages": "",
+                    "name": "Dairy, Chilled & Eggs",
+                    "parentCategory": null,
+                    "productsCount": 1619,
+                    "slug": "dairy-chilled-eggs",
+                    "status": "ENABLED"
+                },
+                "productsCount": 132,
+                "slug": "fresh-milk--1",
+                "status": "ENABLED"
+            },
+            "productsCount": 60,
+            "slug": "fresh-milk",
+            "status": "ENABLED"
+        },
+        "secondaryCategoryIds": [
+            1560,
+            1701,
+            2318,
+            2478,
+            2742,
+            5612
+        ],
+        "slug": "hokkaido-fresh-milk-1l-13075019",
+        "soldByWeight": 0,
+        "status": "ENABLED",
+        "stockOverride": {
+            "maxPurchasableStock": null,
+            "stockBuffer": null,
+            "storeBulkOrderThreshold": null
+        },
+        "storeSpecificData": [
+            {
+                "currency": {
+                    "id": 106,
+                    "name": "SGD",
+                    "symbol": "$"
+                },
+                "discount": "0",
+                "location": {
+                    "aisle": "",
+                    "position": "",
+                    "rack": ""
+                },
+                "mrp": "6.75",
+                "status": "ENABLED",
+                "stock": 66,
+                "store": {
+                    "address": "1 Joo Koon Cir, Singapore 629117",
+                    "businessHours": {
+                        "Friday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Monday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Saturday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Sunday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Thursday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Tuesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        },
+                        "Wednesday": {
+                            "c": "23:00:00",
+                            "o": "08:00:00"
+                        }
+                    },
+                    "clientId": "004",
+                    "hasClickCollect": false,
+                    "hasDeliveryHub": true,
+                    "hasPicking": true,
+                    "hasSelfCheckout": false,
+                    "id": 165,
+                    "languages": "",
+                    "latitude": 1.3262422,
+                    "longitude": 103.6783524,
+                    "metaData": null,
+                    "name": "Fairprice PFC",
+                    "pickingStoreId": null,
+                    "status": "ENABLED"
+                },
+                "storeId": 165,
+                "tax": null,
+                "unlimitedStock": false
+            }
+        ],
+        "tagIds": [
+            1
+        ],
+        "variants": []
+    }
+]
