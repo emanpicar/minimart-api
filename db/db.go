@@ -15,6 +15,7 @@ type (
 	Manager interface {
 		BatchFirstOrCreate(prodCollection *[]entities.ProductCollection)
 		GetProductCollection() *[]entities.ProductCollection
+		GetProductByID(pID uint) (*entities.ProductCollection, error)
 	}
 
 	dbHandler struct {
@@ -47,8 +48,9 @@ func (dbHandler *dbHandler) connect(openConnection func(dialect string, args ...
 
 func (dbHandler *dbHandler) migrateTables() {
 	dbHandler.database.AutoMigrate(&entities.ProductCollection{})
-	dbHandler.database.AutoMigrate(&entities.ProductOffers{}).AddForeignKey("product_id", "product_collection(id)", "CASCADE", "CASCADE")
-	dbHandler.database.AutoMigrate(&entities.ProductImages{}).AddForeignKey("product_id", "product_collection(id)", "CASCADE", "CASCADE")
+	dbHandler.database.AutoMigrate(&entities.ProductOffers{}).AddForeignKey("product_id", "product_collections(id)", "CASCADE", "CASCADE")
+	dbHandler.database.AutoMigrate(&entities.ProductImages{}).AddForeignKey("product_id", "product_collections(id)", "CASCADE", "CASCADE")
+	dbHandler.database.AutoMigrate(&entities.Credential{})
 }
 
 func (dbHandler *dbHandler) BatchFirstOrCreate(prodCollection *[]entities.ProductCollection) {
@@ -62,4 +64,15 @@ func (dbHandler *dbHandler) GetProductCollection() *[]entities.ProductCollection
 	dbHandler.database.Set("gorm:auto_preload", true).Find(&data)
 
 	return &data
+}
+
+func (dbHandler *dbHandler) GetProductByID(pID uint) (*entities.ProductCollection, error) {
+	searchedData := entities.ProductCollection{}
+
+	err := dbHandler.database.Set("gorm:auto_preload", true).Where(&entities.ProductCollection{ID: pID}).First(&searchedData).Error
+	if err != nil {
+		return nil, fmt.Errorf("Product with productID:%v does not exist", pID)
+	}
+
+	return &searchedData, nil
 }

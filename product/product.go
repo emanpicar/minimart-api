@@ -21,7 +21,9 @@ type (
 
 	ProductCollection struct {
 		entities.ProductCollection
-		Images []string `json:"images"`
+		Images     []string `json:"images,omitempty"`
+		Image      string   `json:"image"`
+		SalesPrice float32  `json:"sales_price"`
 	}
 )
 
@@ -85,26 +87,26 @@ func (p *productHandler) populateCollectionForJSON(products *[]entities.ProductC
 	var dbEntity []ProductCollection
 
 	for _, product := range *products {
+		var img string
+		if len(product.Images) > 0 {
+			img = product.Images[0].Value
+		}
+
+		var salesPrice float32
+		if len(product.Offers) > 0 {
+			salesPrice = product.Offers[0].Price
+		}
+
 		dbEntity = append(dbEntity, ProductCollection{
 			ProductCollection: entities.ProductCollection{
-				ID:     product.ID,
-				Name:   product.Name,
-				Offers: product.Offers,
-				Slug:   product.Slug,
+				ID:   product.ID,
+				Name: product.Name,
+				Slug: product.Slug,
 			},
-			Images: p.populateArrayImgForJSON(product.Images),
+			Image:      img,
+			SalesPrice: salesPrice,
 		})
 	}
 
 	return &dbEntity
-}
-
-func (p *productHandler) populateArrayImgForJSON(images []entities.ProductImages) []string {
-	var productImages []string
-
-	for _, image := range images {
-		productImages = append(productImages, image.Value)
-	}
-
-	return productImages
 }

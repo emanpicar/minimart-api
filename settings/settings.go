@@ -47,3 +47,7 @@ func GetServerPublicKey() string {
 func GetServerPrivateKey() string {
 	return getEnv("SERVER_PRIVATE_KEY", "./certs/key.pem")
 }
+
+func GetTokenSecret() string {
+	return getEnv("TOKEN_SECRET", "notSoSecret")
+}
